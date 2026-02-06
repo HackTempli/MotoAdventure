@@ -1,3 +1,5 @@
+# login.py - Página de Inicio de Sesión para MotoAdventure
+
 import flet as ft
 import sqlite3
 from flet import Alignment
